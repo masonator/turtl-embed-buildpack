@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "TurtlEmbedHelpers"
+exit 0

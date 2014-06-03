@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "Installing bc."
+apt-get install bc
